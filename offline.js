@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1774666520,
+	"version": 1774668927,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,11 @@
 		"images/modelolyza-sheet0.png",
 		"images/historialyza-sheet0.png",
 		"images/comentariodelautor-sheet0.png",
+		"images/baseopciones2-sheet0.png",
+		"images/baseopciones3-sheet0.png",
+		"images/baseopciones4-sheet0.png",
+		"images/baseopciones5-sheet0.png",
+		"images/sprite3-sheet0.png",
 		"media/ost de biblioteca.ogg",
 		"media/sfo.ogg",
 		"media/escape.ogg",
